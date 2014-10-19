@@ -5,7 +5,7 @@
 //  Created by Hieu on 10/8/14.
 //  Copyright (c) 2014 Techmaster. All rights reserved.
 //
-
+/*
 import Foundation
 extension String {
     func lengthStr() -> Int {
@@ -33,5 +33,5 @@ extension String {
         }
         return tempStr
     }
-    
 }
+*/

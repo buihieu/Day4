@@ -10,31 +10,31 @@
 	<string>DemoClass</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</key>
-		<string>http://jira:7990/scm/obs/source.git</string>
+		<key>76FDC7BE454FDFC76B9DE18E88555CFBA1CAD553</key>
+		<string>https://github.com/buihieu/Day4.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Day05/DemoClass/DemoClass.xcodeproj</string>
+	<string>DemoClass/DemoClass.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</key>
-		<string>../../../..</string>
+		<key>76FDC7BE454FDFC76B9DE18E88555CFBA1CAD553</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://jira:7990/scm/obs/source.git</string>
+	<string>https://github.com/buihieu/Day4.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</string>
+	<string>76FDC7BE454FDFC76B9DE18E88555CFBA1CAD553</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</string>
+			<string>76FDC7BE454FDFC76B9DE18E88555CFBA1CAD553</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOS8Swift</string>
+			<string>Day4</string>
 		</dict>
 	</array>
 </dict>
