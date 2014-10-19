@@ -1,0 +1,3 @@
+This is an example of process files in swift
+Here is another line
+one more line/Users/admin/Library/Containers/com.apple.PhotoBooth/Data/Pictures/Photo Booth Library/Pictures/Photo on 10-10-14 at 15.47 #2.jpg
